@@ -6,6 +6,8 @@
     In the Craft Crew Chronicles, side by side we unite,
     To learn and to journey in the coder’s shared light.
 
+    Love cat love beer love sakura
+
 ## Updates
 
 ```
