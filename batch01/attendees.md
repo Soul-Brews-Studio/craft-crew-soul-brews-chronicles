@@ -89,6 +89,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 78     |  Bee        | Bee  |  -    |  -    |  xi.ya.xay.kha |  haocomm  |
 | 79     |  อาร์ม        |  Arm Akharin |  -    |  -    |  Akharin Sukcharoen |  armakharin  |
 | 80     |  Hood        |  Hoody Bigboy |  -    |  -    |  Prawit Pimmasarn |  HoodyBoss  |
+| 81     |  Pao        |  Gr4vity |  -    |  -    |  - |  Gr4vity4  |
 
 
 **Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
