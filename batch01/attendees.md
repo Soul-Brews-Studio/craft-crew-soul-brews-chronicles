@@ -27,7 +27,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 19      |  -          | TongMaster    | 3/10/2568    | 21:15    | -    |  -     |
 | 20      |  -          | K.Fluke    | 3/10/2568    | 21:15    | -    |  -     |
 | 21      |  -          | KanomMaî    | 3/10/2568    | 21:15    | -    |  -     |
-| 22      |  -          | arts    | 3/10/2568    | 21:17    | -    |  -     |
+| 22      |  อาท          | arts    | 3/10/2568    | 21:17    | Supawat Sornwai    |  cantart     |
 | 23      |  -          | Alex1603    | 3/10/2568    | 21:19    | -    |  -     |
 | 24      |  -          | spkrn    | 3/10/2568    | 21:19    | -    |  -     |
 | 25      |  -          | GTD    | 3/10/2568    | 21:23    | -    |  -     |
