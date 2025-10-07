@@ -37,7 +37,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 29      |  -          | megane    | 3/10/2568    | 22:12    | -    |  -     |
 | 30      |  -          | Parit    | 3/10/2568    | 22:13    | -    |  -     |
 | 31      |  -          | Jarkius    | 3/10/2568    | 22:16    | -    |  -     |
-| 32      |  -          | SanTi    | 3/10/2568    | 22:48    | -    |  -     |
+| 32      |  บุญ          | SanTi    | 3/10/2568    | 22:48    | Boonsan Ti    |  boonsanti     |
 | 33      |  แบงค์          | Jirayu S    | 3/10/2568    | 23:22    | -    |  Jirayu Saengwannakool     |
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     |
