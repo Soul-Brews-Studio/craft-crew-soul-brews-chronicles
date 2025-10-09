@@ -51,7 +51,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     | N/A |
 | 44      | Hashim          | Hashim.    | 4/10/2568    | 09:48    | Hashim Ruengsupapichat    |  hashim     | N/A |
 | 45      |  ปอ          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  porjinwoo     | N/A |
-| 46      |  -          | ballworawut_    | 4/10/2568    | 10:28    | -    |  -     | N/A |
+| 46      |  บอล          | ballworawut_    | 4/10/2568    | 10:28    | Worawut Yodpanut    |  worawut111ball     | N/A |
 | 47      |  -          | Charkrid    | 4/10/2568    | 10:29    | -    |  -     | N/A |
 | 48      |  -          | Bentley    | 4/10/2568    | 10:41    | -    |  -     | N/A |
 | 49      |  -          | blackdevil 🦇🔊    | 4/10/2568    | 11:31    | -    |  -     | N/A |
