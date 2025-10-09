@@ -47,7 +47,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 39      |  เฟิส          | Firstnapat    | 4/10/2568    | 07:12    | Napatsakorn Pianchana    |  firstnapat     |
 | 40      |  นัท          | Nnnnut    | 4/10/2568    | 07:12    | Kamonwat Ratchakot    |  nuttooo     |
 | 41      |  หลุยส์          | 1FLOW    | 4/10/2568    | 07:13    | Tacha Kongkakate    |  tacha-hash     |
-| 42      |  -          | keng    | 4/10/2568    | 09:43    | -    |  -     |
+| 42      |  นนท์          | keng    | 4/10/2568    | 09:43    | Patcharapol Nonn    |  dragonnon2     |
 | 43      |  -          | MARCHGIE 1265368926    | 4/10/2568    | 09:44    | -    |  -     |
 | 44      | Hashim          | Hashim.    | 4/10/2568    | 09:48    | Hashim Ruengsupapichat    |  hashim     |
 | 45      |  ปอ          | 𝐏𝐓𝐃    | 4/10/2568    | 10:23    | -    |  porjinwoo     |
