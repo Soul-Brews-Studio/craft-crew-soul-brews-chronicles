@@ -92,9 +92,10 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 84     |  ใหญ่        |  yai |  -    |  -    |  Teeratep Phoungpakdee |  postmunnet  | N/A |
 
 
-**Total:** 66 attendees (58 workshop participants merged with 17 detailed attendee records)
+**Total:** 84 attendees (62 with workshop dates + 22 without dates)
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
 - Date 4/10/2568: 33 participants
-- Date 5/10/2568: 2 participant
+- Date 5/10/2568: 3 participants
+- Date 6/10/2568: 2 participants
