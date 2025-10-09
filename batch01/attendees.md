@@ -90,6 +90,8 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 82     |  Hood        |  Hoody Bigboy |  -    |  -    |  Prawit Pimmasarn |  HoodyBoss  | N/A |
 | 83     |  Pao        |  Gr4vity |  -    |  -    |  - |  Gr4vity4  | N/A |
 | 84     |  ใหญ่        |  yai |  -    |  -    |  Teeratep Phoungpakdee |  postmunnet  | N/A |
+| 85     |  มาร์ช        |  MARCHGIE 1265368926 |  -    |  -    |  March Usamar Lortanyong |  DevUniM  | N/A |
+
 
 
 **Total:** 84 attendees (62 with workshop dates + 22 without dates)
