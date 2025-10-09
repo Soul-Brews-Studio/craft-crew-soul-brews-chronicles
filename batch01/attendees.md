@@ -91,10 +91,13 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 83     |  Pao        |  Gr4vity |  -    |  -    |  - |  Gr4vity4  | N/A |
 | 84     |  ใหญ่        |  yai |  -    |  -    |  Teeratep Phoungpakdee |  postmunnet  | N/A |
 | 85     |  มาร์ช        |  MARCHGIE 1265368926 |  -    |  -    |  March Usamar Lortanyong |  DevUniM  | N/A |
+| 86     |  Yorsh        |  Thyzh |  -    |  -    |  - |  hiphop2311  | N/A |
+| 87     |  วุฒิ        |  WOOTTY-IT |  -    |  -  | Thirawoot Chaiyasaj |  WOOTTY-IT  | N/A |
 
 
 
 **Total:** 84 attendees (62 with workshop dates + 22 without dates)
+
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
