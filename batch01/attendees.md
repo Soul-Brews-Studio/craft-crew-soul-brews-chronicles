@@ -93,6 +93,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 85     |  มาร์ช        |  MARCHGIE 1265368926 |  -    |  -    |  March Usamar Lortanyong |  DevUniM  | Y |
 | 86     |  Yorsh        |  Thyzh |  -    |  -    |  - |  hiphop2311  | Y |
 | 87     |  วุฒิ        |  WOOTTY-IT |  -    |  -  | Thirawoot Chaiyasaj |  WOOTTY-IT  | Y |
+| 88     |  โป้ง       |  kittipong |  -    |  -  | - |  -  | N/A |
 
 
 
