@@ -6,7 +6,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 
 | Number* | Nickname/TH* | Discord Name/Workshop Name* | Workshop Date | Workshop Time | Extra Field (FB) (optional) | GitHub Account | Group |
 |---------|--------------|----------------------------|---------------|---------------|---------|----------------|----------|
-| 1       | นัท          | nazt          | -    | -    | Nat Weerawan    |   nazt             | Y |
+| 1       | นัท          | nazt          | -    | -    | Nat Weerawan    |   nazt             | N |
 | 2       | นัท          | catbutter          | -    | -    | -    |   nazt             | Y |
 | 3       | เคน         | pagongamedev  | -    | -    | Pagon Suriyatheewasathitgoon     | pagongamedev               | Y |
 | 4       | Poom         | PandaSamurai  | 4/10/2568    | 11:14    | -    | SupavitW       | Y |
@@ -95,9 +95,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 87     |  วุฒิ        |  WOOTTY-IT |  -    |  -  | Thirawoot Chaiyasaj |  WOOTTY-IT  | Y |
 
 
-
 **Total:** 84 attendees (62 with workshop dates + 22 without dates)
-
 
 ### Workshop Statistics
 - Date 3/10/2568: 24 participants
