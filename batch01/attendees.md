@@ -41,7 +41,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 33      |  แบงค์          | Jirayu S    | 3/10/2568    | 23:22    | -    |  Jirayu Saengwannakool     | N/A |
 | 34      |  -          | yuto    | 4/10/2568    | 06:28    | -    |  -     | N/A |
 | 35      |  -          | Johnwick5    | 4/10/2568    | 06:45    | -    |  -     | N/A |
-| 36      |  -          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  -     | N/A |
+| 36      |  นัท          | ArigatoKun    | 4/10/2568    | 07:00    | -    |  Nattapash     | N/A |
 | 37      |  นนท์          | non \| non ⌐◨-◨    | 4/10/2568    | 07:11    | Nonthasak Laoluerat |  mojisejr     | Y |
 | 38      |  -          | rutch5355    | 4/10/2568    | 07:12    | -    |  -     | N/A |
 | 39      |  เฟิส          | Firstnapat    | 4/10/2568    | 07:12    | Napatsakorn Pianchana    |  firstnapat     | Y |
