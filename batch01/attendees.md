@@ -64,7 +64,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 56      |  เมฆ          | Mek    | 4/10/2568    | 15:00    | Suthawee Weraphong    |  SuthaweeWeraphongCode     | Y |
 | 57      |  -          | AomsiN The F#    | 4/10/2568    | 15:09    | -    |  -     | N/A |
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     | N/A |
-| 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  -     | N/A |
+| 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  targc     | N/A |
 | 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     | Y |
 | 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     | N/A |
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    | Y |
