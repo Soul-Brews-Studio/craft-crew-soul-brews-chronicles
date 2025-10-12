@@ -30,7 +30,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 22      |  อาท          | arts    | 3/10/2568    | 21:17    | Supawat Sornwai    |  cantart     | Y |
 | 23      |  -          | Alex1603    | 3/10/2568    | 21:19    | -    |  -     | N/A |
 | 24      |  -          | spkrn    | 3/10/2568    | 21:19    | -    |  -     | N/A |
-| 25      |  -          | GTD    | 3/10/2568    | 21:23    | -    |  -     | N/A |
+| 25      |  ดอน          | GTD    | 3/10/2568    | 21:23    | Udon    | Manonuang      | Y |
 | 26      |  -          | Tong    | 3/10/2568    | 21:28    | -    |  -     | N/A |
 | 27      |  -          | ASP Exp    | 3/10/2568    | 21:59    | -    |  -     | N/A |
 | 28      |  -          | hack    | 3/10/2568    | 22:07    | -    |  -     | N/A |
