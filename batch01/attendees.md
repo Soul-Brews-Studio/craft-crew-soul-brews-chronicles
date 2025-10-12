@@ -95,6 +95,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 87     |  วุฒิ        |  WOOTTY-IT |  -    |  -  | Thirawoot Chaiyasaj |  WOOTTY-IT  | Y |
 | 88     |  โป้ง       |  kittipong |  -    |  -  | - |  kwarasup  | N/A |
 | 89     |  เพชร        |  petchctep |  25/10/2568    |  13:00  | Nattakit Somaram |  petchnattkit  | N/A |
+| 90     | ภู          | pooh | 13/10/2568 | 10.00 | Poohbest Jirathitiphuwadon  | ipoobest | Y |
 
 **Total:** 84 attendees (62 with workshop dates + 22 without dates)
 
