@@ -15,6 +15,10 @@
 3) เปิด pull request กลับมา
 4) รอ merge ค้าบ
 
+## Workshop's Location
+
+[https://github.com/soul-brews-hub](https://github.com/soul-brews-hub)
+
 ## Attendees
 
 - [Batch 01 Attendees](batch01/attendees.md)
