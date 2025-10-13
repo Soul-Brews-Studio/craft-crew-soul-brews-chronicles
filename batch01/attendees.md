@@ -66,7 +66,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 58      |  -          | holywisdom    | 4/10/2568    | 15:17    | -    |  -     | N/A |
 | 59      |  ต้า         | TAR    | 4/10/2568    | 15:34    | -    |  targc     | N/A |
 | 60      |  -          | BEST    | 4/10/2568    | 15:54    |Eakbordin Fueangkaew    |whatthebest     | Y |
-| 61      |  -          | suparera    | 4/10/2568    | 21:25    | -    |  -     | N/A |
+| 61      |  เสือ        | suparera    | 4/10/2568    | 21:25    |suparerk.archeewawarnich|suparera|Y|
 | 62      |  แพลงก์ตอน         | Plankton    | 4/10/2568    | 23:45    | -    |  Thirasak1150    | Y |
 | 63      |  -          | purple    | 5/10/2568    | 00:57    | -    |  -     | N/A |
 | 64      |  ohm          | ohmdob   | 5/10/2568    | 22:27    | ohmdob   |  ohmdob     | Y |
