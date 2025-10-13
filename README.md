@@ -18,7 +18,7 @@
 # Workshop Steps
 
 1) เข้า [https://github.com/soul-brews-hub](https://github.com/soul-brews-hub)
-2) แล้วสร้าง Repo นำหน้าด้วย เลข Id ใน จากไฟล์https://github.com/Soul-Brews-Studio/craft-crew-soul-brews-chronicles/blob/main/batch01/attendees.md
+2) แล้วสร้าง Repo แบบ Public ครับ Default จะเป็น Private แก้เป็น Public ชื่อนำหน้าด้วย เลข Id ใน จากไฟล์https://github.com/Soul-Brews-Studio/craft-crew-soul-brews-chronicles/blob/main/batch01/attendees.md
 3) ตัวอย่างเช่น 1-nazt-01-hello-world
     - ถ้าสร้างไม่ได้ให้ลองกดรับ invite และทักถาม Dj BM
 4) ไปหน้า github profile ของตัวเอง และสร้าง repo ว่า workshop-soul-brews
