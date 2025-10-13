@@ -33,8 +33,8 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 25      |  ดอน          | GTD    | 3/10/2568    | 21:23    | Udon    | Manonuang      | Y |
 | 26      |  -          | Tong    | 3/10/2568    | 21:28    | -    |  -     | N/A |
 | 27      |  -          | ASP Exp    | 3/10/2568    | 21:59    | -    |  -     | N/A |
-| 28      |  -          | hack    | 3/10/2568    | 22:07    | -    |  -     | N/A |
-| 29      |  -          | megane    | 3/10/2568    | 22:12    | -    |  -     | N/A |
+| 28      |  -          | hack    | 3/10/2568    | 22:07    | -    |  meganechan    | N/A |
+| 29      |  ต้น          | megane    | 3/10/2568    | 22:12    | -    |  -     | N/A |
 | 30      |  -          | Parit    | 3/10/2568    | 22:13    | -    |  -     | N/A |
 | 31      |  -          | Jarkius    | 3/10/2568    | 22:16    | -    |  -     | N/A |
 | 32      |  บุญ          | SanTi    | 3/10/2568    | 22:48    | Boonsan Ti    |  boonsanti     | Y |
