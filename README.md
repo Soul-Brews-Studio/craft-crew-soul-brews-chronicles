@@ -23,7 +23,7 @@
     - ถ้าสร้างไม่ได้ให้ลองกดรับ invite และทักถาม Dj BM
 4) ไปหน้า github profile ของตัวเอง และสร้าง repo ว่า `workshop-soul-brews`
 5) กดสร้าง README.md และกดเปิด Codespace on main และเปิดใน VS Code
-6) ลองดู Token ใน repo: https://github.com/Soul-Brews-Hub/z.ai-api-key-for-workshop/blob/main/TOKENS.md
+6) ลองดู Token ใน repo: https://github.com/Soul-Brews-Hub/z.ai-api-key-for-workshop
     - ถ้าเข้าไม่ได้อันนี้ รอไว้หัดทำคราวหน้า หรือลงทะเบียนรอบถัดไปครับ
 7) ลง Claude Code ตาม คำสั่ง npm ใน https://www.claude.com/product/claude-code
 8) ก๊อบปี้่เนื้อหา ใน https://gist.github.com/nazt/3f9188eb0a5114fffa5d8cb4f14fe5a4 สร้างไฟล์ใหม่ชื่อ CLAUDE.md
