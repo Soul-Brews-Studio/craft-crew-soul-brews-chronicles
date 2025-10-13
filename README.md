@@ -31,10 +31,10 @@
     - ​inline: `CLAUDE_CONFIG_DIR=~/.claude-zz ANTHROPIC_BASE_URL=https://api.z.ai/api/anthropic ANTHROPIC_AUTH_TOKEN=your_token ANTHROPIC_MODEL=glm-4.5 claude`
     - multiple lines
       ```
-          export CLAUDE_CONFIG_DIR=~/.claude-zz
-          export ANTHROPIC_BASE_URL=https://api.z.ai/api/anthropic
-          export ANTHROPIC_AUTH_TOKEN=your_token
-          export ANTHROPIC_MODEL=glm-4.5
+      export CLAUDE_CONFIG_DIR=~/.claude-zz
+      export ANTHROPIC_BASE_URL=https://api.z.ai/api/anthropic
+      export ANTHROPIC_AUTH_TOKEN=your_token
+      export ANTHROPIC_MODEL=glm-4.5
       ```
 
 ## Attendees
