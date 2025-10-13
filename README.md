@@ -36,6 +36,10 @@
       export ANTHROPIC_AUTH_TOKEN=your_token
       export ANTHROPIC_MODEL=glm-4.5
       ```
+    - alias in .bashrc
+      ```
+      alias claudez='CLAUDE_CONFIG_DIR=~/.claude-zz ANTHROPIC_BASE_URL=https://api.z.ai/api/anthropic ANTHROPIC_AUTH_TOKEN=your_token ANTHROPIC_MODEL=glm-4.5 claude .'
+      ```
 11) สั่ง claude code ว่า `commit and push`
 10) สมัคร สมาชิก vercel.com
 
