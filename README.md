@@ -20,7 +20,7 @@
 1) เข้า [https://github.com/soul-brews-hub](https://github.com/soul-brews-hub)
 2) แล้วสร้าง Repo นำหน้าด้วย เลข Id ใน จากไฟล์https://github.com/Soul-Brews-Studio/craft-crew-soul-brews-chronicles/blob/main/batch01/attendees.md
 3) ตัวอย่างเช่น 1-nazt-01-hello-world
-    2.1) ถ้าสร้างไม่ได้ให้ลองกดรับ invite และทักถาม Dj BM 
+    - ถ้าสร้างไม่ได้ให้ลองกดรับ invite และทักถาม Dj BM 
 
 ## Attendees
 
