@@ -36,7 +36,7 @@
       export ANTHROPIC_AUTH_TOKEN=your_token
       export ANTHROPIC_MODEL=glm-4.5
       ```
-10) สมัคร สมาชิก vercel.co
+10) สมัคร สมาชิก vercel.com
 
 ## Attendees
 
