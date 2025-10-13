@@ -47,3 +47,21 @@
 ## Attendees
 
 - [Batch 01 Attendees](batch01/attendees.md)
+
+
+```
+gq () {
+	local url="$1"
+	local repo_path=$(echo "$url" | sed 's|https://github.com/||' | sed 's|git@github.com:||' | sed 's|\.git$||')
+	local full_path="$HOME/Code/github.com/$repo_path"
+	if [ -d "$full_path" ]
+	then
+		echo "📂 Repo exists, pulling latest changes..."
+		cd "$full_path"
+		git pull
+	else
+		ghq get -p "$url" && cd "$full_path"
+	fi
+}
+
+```
