@@ -98,6 +98,7 @@ This file tracks the attendees for Batch 01 of the `Craft Crew Chronicles`.
 | 90     | ภู          | pooh | 13/10/2568 | 10.00 | Poohbest Jirathitiphuwadon  | ipoobest | Y |
 | 91     | นัด          | NutBodyslam053 | 12/10/2568 | 20.29 | - | NutBodyslam053 | Y |
 | 92     | BIRT          | SB | 12/10/2568 | 23.18 | - | stepbirt | N/A |
+| 93     | ก้อง        | konglife | - | - | konglife | konglife | Y |
 
 **Total:** 84 attendees (62 with workshop dates + 22 without dates)
 
